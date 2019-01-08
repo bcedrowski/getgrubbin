@@ -1,3 +1,9 @@
+USER STORIES:
+1. As a user, I expect to be able to search for food recipes and find a good amount of results in order to have
+more options.
+2. As a user, I expect to be able to view each recipe clearly as well as have access to its full descriptions
+and step-by-step recipe guide.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
